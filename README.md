@@ -1,2 +1,3 @@
 # DC-WIKI-WEB-SCRAPPING
+The Billboard Hot 100 is a chart that ranks the best-performing singles of the United States. Its data, published by Billboard magazine and compiled by Nielsen SoundScan, is based collectively on each single's weekly physical and digital sales, as well as airplay and streaming. At the end of a year, Billboard will publish an annual list of the 100 most successful songs throughout that year on the Hot 100 chart based on the information.
 Scrape and Parse Wikipedia for Billboard's Top 100 songs starting from 1992 to 2021 to create required dataset and answer questions based on that.
